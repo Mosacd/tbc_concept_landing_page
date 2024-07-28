@@ -1,7 +1,6 @@
-# tbc_concept_landing_page
-landing page for TBC concept
+# TBC Concept Page
 
-This project is a responsive web page for TBC Concept, featuring functional "Offers" and "Rewards" sliders. The page is designed to work identically across all modern browsers, including Firefox, Chrome, Safari, and Edge, without the use of JavaScript libraries or frameworks.
+This project is a responsive web page for TBC Concept, featuring functional "Offers" and "Rewards" sliders. The page is designed to work identically across all modern browsers, including Firefox, Chrome, Safari, Edge, and Opera, without the use of JavaScript libraries or frameworks. The project is entirely built using native web technologies.
 
 ## Project Structure
 
@@ -22,6 +21,10 @@ The project is built using the following technologies:
 - **CSS3**: For styling and making the page responsive.
 - **JavaScript**: For adding interactivity and functionality to the sliders.
 - **Custom Fonts**: TBCX fonts are used to match the branding of TBC Concept.
+
+### **No Frameworks Used**
+
+This project was developed without the use of any JavaScript libraries or frameworks. All functionality is implemented using native web technologies.
 
 ## Instructions to Start the Project
 
@@ -54,15 +57,82 @@ This page is designed to be fully compatible with all modern web browsers, inclu
 - Mozilla Firefox
 - Safari
 - Microsoft Edge
-
+- Opera
+  
 ## Responsiveness
 
 The page is fully responsive and adjusts seamlessly across different screen sizes and devices, ensuring a consistent user experience on desktops, tablets, and mobile devices.
 
-## GitHub Repository
 
-The project is hosted on GitHub and can be accessed using the following link:
+Feel free to reach out if you have any questions or need further assistance regarding this project.
 
-- [GitHub Repository](https://github.com/yourusername/tbc-concept-page)
+---
 
+# TBC Concept გვერდი
 
+ეს პროექტი არის TBC Concept-ის landing page, რომელშიც ფუნქციონირებს "შეთავაზებები" და "ჯილდოები" სლაიდერები. გვერდი ყველა თანამედროვე ბრაუზერში ერთნაირად მუშაობს, მათ შორის Firefox, Chrome, Safari, Edge, and Opera, JavaScript ბიბლიოთეკების ან Framework-ების გამოყენების გარეშე. პროექტი მთლიანად შექმნილია native web ტექნოლოგიების გამოყენებით.
+
+## პროექტის სტრუქტურა
+
+პროექტი შეიცავს შემდეგ ფაილებს:
+
+- **index.html**: მთავარი HTML ფაილი, რომელიც მოიცავს TBC Concept-ის გვერდის სტრუქტურას.
+- **style.css**: ეს ფაილი შეიცავს ყველა სტილს, რომელიც გამოიყენება პროექტში, რათა გვერდი ვიზუალურად მიმზიდველი და რესპონსიული იყოს.
+- **script.js**: ეს JavaScript ფაილი შეიცავს სლაიდერებისა და გვერდის სხვა ინტერაქტიული ელემენტების ფუნქციონირებას.
+- **TBCXBold.6db5e61d.woff2**: სპეციალური წონის შრიფტი, რომელიც გამოიყენება მთელ გვერდზე.
+- **TBCXMedium.8ef1248a.woff2**: სპეციალური საშუალო წონის შრიფტი, რომელიც გამოიყენება სხვადასხვა ტექსტურ ელემენტებში.
+- **TBCXRegular.dee156cc.woff2**: სპეციალური ჩვეულებრივი შრიფტი, რომელიც გამოიყენება სტანდარტული ტექსტის სტილებისთვის.
+
+## გამოყენებული ტექნოლოგიები
+
+პროექტი აგებულია შემდეგი ტექნოლოგიების გამოყენებით:
+
+- **HTML5**: ვებგვერდის კონტენტის სტრუქტურისთვის.
+- **CSS3**: გვერდის სტილიზაციისა და რესპონსიულობისთვის.
+- **JavaScript**: სლაიდერების ინტერაქტიულობის და ფუნქციონირების დამატებისთვის.
+- **სპეციალური შრიფტები**: TBCX შრიფტები გამოყენებულია TBC Concept-ის ბრენდინგის შესატყვისად.
+
+### **დაწერილია Framework-ების გარეშე**
+
+ამ პროექტში არ გამოყენებულა JavaScript ბიბლიოთეკები ან Framework-ები. ყველა ფუნქციონირება შესრულებულია მხოლოდ ძირფესვიანი ტექნოლოგიების გამოყენებით.
+
+## პროექტის დაწყების ინსტრუქციები
+
+შემდეგი ნაბიჯები განახორციელეთ პროექტის ლოკალურად გასაშვებად:
+
+1. **დააკლონეთ რეპოზიტორი**: 
+   - დააკლონეთ პროექტის რეპოზიტორი GitHub-დან თქვენს ლოკალურ კომპიუტერზე.
+     ```bash
+     git clone https://github.com/yourusername/tbc-concept-page.git
+     ```
+
+2. **გადადით პროექტის დირექტორიაში**:
+   - გადადით პროექტის ფოლდერში.
+     ```bash
+     cd tbc-concept-page
+     ```
+
+3. **HTML ფაილის გახსნა**:
+   - გახსენით `index.html` ფაილი თქვენს სასურველ ბრაუზერში.
+     ```bash
+     open index.html
+     ```
+   - ალტერნატიულად, შეგიძლიათ მაუსის მარჯვენა ღილაკზე დააჭიროთ `index.html` ფაილზე და აირჩიოთ "Open with" და თქვენი ბრაუზერი.
+
+## ბრაუზერების თავსებადობა
+
+ეს გვერდი სრულიად თავსებადია ყველა თანამედროვე ვებბრაუზერთან, მათ შორის:
+
+- Google Chrome
+- Mozilla Firefox
+- Safari
+- Microsoft Edge
+- Opera
+  
+## რესპონსიულობა
+
+გვერდი სრულად რესპონსიულია და მუდმივად ადაპტირდება სხვადასხვა ეკრანის ზომებზე და მოწყობილობებზე, რაც უზრუნველყოფს ერთგვაროვან მომხმარებელთა გამოცდილებას დესკტოპებზე, ტაბლეტებზე და მობილურ მოწყობილობებზე.
+
+---
+
+თუ გაქვთ რაიმე შეკითხვა ან საჭიროებთ დახმარებას პროექტთან დაკავშირებით, ნუ მოგერიდებათ დამიკავშირდეთ.
